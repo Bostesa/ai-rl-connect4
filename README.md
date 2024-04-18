@@ -1,5 +1,5 @@
 
-Welcome to the Connect4 AI project, where advanced Reinforcement Learning techniques meet strategic gameplay. This project involves developing an AI to play the classic game Connect4, using state-of-the-art reinforcement learning methods including Distributional Dueling Networks, Noisy Nets, and Prioritized Experience Replay, all implemented using PyTorch.
+Welcome to my Connect4 AI project, where i used some Reinforcement Learning techniques for gameplay. This project involves developing an AI to play Connect4, using  reinforcement learning methods including Distributional Dueling Networks, Noisy Nets, and Prioritized Experience Replay, all implemented using PyTorch.
 
 ## Project Overview
 
